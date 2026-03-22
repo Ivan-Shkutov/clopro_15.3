@@ -172,5 +172,8 @@ curl -I https://storage.yandexcloud.net/shkutov-20260321/image.jpg - публи�
 
 ![14](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/14.png)
 
+![15](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/15.png)
+
+
 - - - - -
 
