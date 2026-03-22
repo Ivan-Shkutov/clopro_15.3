@@ -144,12 +144,33 @@ curl -I https://storage.yandexcloud.net/shkutov-20260321/image.jpg - публи�
 
 ```
 
-[!1](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/1.png)
+![1](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/1.png)
 
+![2](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/2.png)
 
+![3](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/3.png)
 
+![4](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/4.png)
 
+![5](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/5.png)
 
+![6](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/6.png)
+
+![7](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/7.png)
+
+![8](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/8.png)
+
+![9](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/9.png)
+
+![10](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/10.png)
+
+![11](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/11.png)
+
+![12](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/12.png)
+
+![13](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/13.png)
+
+![14](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/14.png)
 
 - - - - -
 
