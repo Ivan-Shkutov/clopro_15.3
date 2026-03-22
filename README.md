@@ -144,7 +144,7 @@ curl -I https://storage.yandexcloud.net/shkutov-20260321/image.jpg - публи�
 
 ```
 
-
+[1!](https://github.com/Ivan-Shkutov/clopro_15.3/blob/main/img/1.png)
 
 
 
